@@ -39,12 +39,17 @@ The Complaint Management System (CMS) is designed to help institutions like scho
    CMS
    ```
 
-### Usage
+## Usage
 - After launching the application, follow the on-screen prompts to navigate through the functionalities based on your user role.
 
-### Contributing
+## Contributing
 - Contributions to the Complaint Management System are welcome. Please ensure to follow the provided coding standards and pull request process.
 
-### License
+## License
 - This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Developed by
+
+* Abdullah Awan
+  - <mlkabawan336@mgmail.com>
 
